@@ -1,2 +1,2 @@
 # estrildidae-macroecology
-R code for macroecological analyses (Estrildidae): Bergmann’s rule, Rapoport’s rule, LDG.
+This repository contains R code and analyses for macroecological coursework (ICL, 2025).
